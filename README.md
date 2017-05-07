@@ -1,6 +1,6 @@
 # CODEX
 
-# NO
+## NO
 
 - Ternary operators; (hard testing)
 - Fluent interface entities; (code polution)
