@@ -8,6 +8,7 @@
 - {@Inheritdoc} usage (excess parent exploration)
 - Public or protected variables (potential prohibited usage)
 - Repository can not be used directly for side effect operations.(it should be done via service)
+- Setters in models(model methods have to represent actions with affection on state).
 
 ## YES
 
